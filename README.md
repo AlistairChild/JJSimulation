@@ -55,4 +55,4 @@ To view the current density distribution use view "profile". To view the critica
 
 ## Authors and acknowledgment
 
-This project was a collaboration between Alistair Child and under a project supervised by Niladri Banerjee. 
+This project was a collaboration between Alistair Child and Shalaka Kulkarni under a project supervised by Niladri Banerjee. 
